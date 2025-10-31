@@ -1,0 +1,21 @@
+.intro-main {
+  position: relative;
+  width: 2560px;
+  height: 1440px;
+
+  background-image: url('../assets/images/intro-background.png');
+}
+
+.video-area {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 25px;
+
+  position: absolute;
+  width: 851px;
+  height: 482px;
+  left: 1629px;
+  top: 454px;
+}
