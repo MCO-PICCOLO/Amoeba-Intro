@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import './IntroMain.css';
-import videoSource from '../assets/videos/자율주행영상_251103_확대 1.mp4';
+import videoSource from "../assets/videos/251229_LG_AUTOWARE_003.mp4;
 
 const IntroMain = () => {
   const [isZoomed, setIsZoomed] = useState(false);
